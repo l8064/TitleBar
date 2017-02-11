@@ -15,7 +15,8 @@ setTitle("标题");
 //设置返回按钮并显示
 showBackwardView(R.string.text_back,true);
 //设置提交按钮并显示
-showForwardView(R.string.text_forward, true);       ```
+showForwardView(R.string.text_forward, true);      
+```
 
 ```java
 /**

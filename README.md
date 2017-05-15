@@ -36,6 +36,6 @@ protected void onForward(View forwardView) {
 }
 ```
 
-## 项目地址
+## 交个朋友
 欢迎关注我的博客，和我做朋友。
 [http://lns666.me](http://lns666.me/)

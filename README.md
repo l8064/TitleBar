@@ -1,4 +1,4 @@
-# TitleBar
+## TitleBar
 Android自定义标题栏
 
 在Android开发中，我们常常需要在标题栏中增加返回按钮和提交按钮，并将标题文字居中这就需要自定义标题栏。
@@ -35,7 +35,7 @@ protected void onForward(View forwardView) {
     super.onForward(forwardView);
 }
 ```
-
 ## 交个朋友
-欢迎关注我的博客，和我做朋友。
+欢迎右上角Start/Fork！
+你也可以关注我的博客，和我做朋友。
 [http://lns666.me](http://lns666.me/)

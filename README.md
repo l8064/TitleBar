@@ -35,7 +35,7 @@ protected void onForward(View forwardView) {
     super.onForward(forwardView);
 }
 ```
+
 ## 交个朋友
 欢迎右上角Start/Fork！
-你也可以关注我的博客，和我做朋友。
-[http://lns666.me](http://lns666.me/)
+你也可以关注[我的博客](http://lns666.me/)，和我做朋友。
